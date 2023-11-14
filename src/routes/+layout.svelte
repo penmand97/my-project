@@ -1,7 +1,7 @@
 <script>
     import Footer from "../components/Footer.svelte";
     import Header from "../components/Header.svelte";
-    import "../app.css";
+    import "/users/dav/my-project/src/app.css";
 
   let y;
   let innerHeight = 0
