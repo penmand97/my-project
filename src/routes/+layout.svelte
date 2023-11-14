@@ -1,5 +1,5 @@
 <script>
-  import "Users/dav/my-project/src/routes/app.css"
+  import "/Users/dav/my-project/src/routes/app.css"
   import Footer from "/Users/dav/my-project/src/components/Footer.svelte"
   import Header from "/Users/dav/my-project/src/components/Header.svelte"
 
