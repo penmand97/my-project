@@ -1,14 +1,14 @@
 <script>
-  import "/Users/dav/my-project/src/app.css";
-  import Footer from "/Users/dav/my-project/src/components/Footer.svelte"
-  import Header from "/Users/dav/my-project/src/components/Header.svelte"
-
+  
+  import Footer from "/Users/dav/my-project/src/components/Footer.svelte";
+  import Header from "/Users/dav/my-project/src/components/Header.svelte";
+  import "/users/dav/my-project/src/app.css";
   let y;
   let innerHeight = 0
   let innerWidth = 0
 
   function goTop(){
-    document.body.scrollIntoView ()
+    document.body.scrollIntoView ();
   }
 
 </script>
@@ -28,7 +28,7 @@
 
   </div> 
 
-  <Header y={y}/>
+  <Header y={innerHeight}/>
   <slot />
   <Footer/>
 

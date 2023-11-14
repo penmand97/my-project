@@ -74,10 +74,12 @@ let benefits = [
                 </a>
             </div>
             <div class="relative shadow-2xl grid place-items-center">
-                <!-- svelte-ignore a11y-img-redundant-alt -->
-                <img src={"/Users/dav/my-project/static/images/profile.png"}
-                alt="Profile image"
-                class="object-cover z-[2] max-h-[70vh]"/>
+               
+                <img
+                src={"images/profile.png"}
+                alt="profile img"
+                class="object-cover z-[2] max-h-[70vh]"
+            />
 
             </div>
     </section>
