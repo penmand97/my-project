@@ -1,7 +1,7 @@
 <script>
     import Step from "./Step.svelte";
 
-let steps = [
+let steps = [ 
     {
         name: "Wealth and Hellness",
         icon: "fa-solid fa-cart-shopping",
