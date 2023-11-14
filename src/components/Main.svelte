@@ -54,7 +54,7 @@ let benefits = [
                     </h2>
 
                 <p class="text-base sm:text-lg md:text-xl">
-                My <span class="text-violet-400"> favorite tech </span> (at the moment) includes JavaScript (NEXT.js or Sveltekit), TailwindCSS & Node.js 
+                My <span class="text-violet-400"> favourite tech </span> (at the moment) includes JavaScript (NEXT.js or Sveltekit), TailwindCSS & Node.js 
                 </p>
     
     
